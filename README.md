@@ -24,7 +24,7 @@ An ML intern that autonomously researches, writes, and ships good quality ML rel
 ### Installation
 
 ```bash
-git clone git@github.com:huggingface/ml-intern.git
+git clone https://github.com/C0DER-B0T/ML-Intern.git
 cd ml-intern
 uv sync
 uv tool install -e .
